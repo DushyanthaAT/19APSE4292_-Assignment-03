@@ -38,6 +38,8 @@
 ## 10. docker exec -it namenode hdfs dfs -cat /output/part-r-00000
 ![image](https://github.com/user-attachments/assets/25ae2ff8-8641-43aa-882e-e33d232fe31a)
 
+## 11. docker-compose down
+![image](https://github.com/user-attachments/assets/c0e83f37-29cb-4bd0-8c20-5a6cb3724448)
 
 
 
